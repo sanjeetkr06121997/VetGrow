@@ -24,7 +24,7 @@
                 <body class="hold-transition register-page"/>
         <div class="register-box">
             <div class="register-logo">
-                <a href="../../index2.html"><b>admin</b>lte</a>
+                <a href="../../index2.html"><b>Vet</b>Grow</a>
                 <div class="card-body register-card-body">
                     <p class="login-box-msg">Register Form</p>
                       <div class="col-md-4">
